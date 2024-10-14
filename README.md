@@ -1,2 +1,2 @@
 # sigmocap
-sigma cap: bones
+sigma mocap: bones
